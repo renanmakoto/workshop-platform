@@ -1,8 +1,9 @@
 import { CaretRight, DiscordLogo, FileArrowDown, Lightning } from "phosphor-react"
 import { DefaultUi, Player, Youtube } from '@vime/react'
+import { useGetLessonBySlugQuery } from "../graphql/generated"
 
 import'@vime/core/themes/default.css'
-import { useGetLessonBySlugQuery } from "../graphql/generated"
+
 
 
 

@@ -1,5 +1,5 @@
 {
-  "name": "evetn-platform",
+  "name": "event-platform",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "@apollo/client": "^3.7.7",
-    "@types/react-router-dom": "^5.3.3",
     "@vime/core": "^5.4.0",
     "@vime/react": "^5.4.0",
     "classnames": "^2.3.2",
