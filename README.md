@@ -1,4 +1,4 @@
-# workshop-platform
+<h1 align="center">Workshop Platform</h1>
 An online workshop platform I have developed in order to practice my front-end skills, using GrapQL as a query language and HyperGraph as a headlessCMS.
 
 TECHNOLOGIES USED:
