@@ -1,5 +1,7 @@
 <h1 align="center">Workshop Platform</h1>
 
+<div align="center">
+
 <p>An online workshop platform I have developed in order to practice my front-end skills, using GrapQL as a query language and HyperGraph as a headlessCMS.</p>
 
 TECHNOLOGIES USED:
@@ -15,6 +17,8 @@ BACK-END
 
 <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="width: 64px; height: 64px;" /></a>
 <a href="https://graphql.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" style="width: 64px; height: 64px;" /></a>
+
+
 
 <p align="center">With ❤ by <img src=https://img.shields.io/badge/-dotExtension-black /> <p/>
 
@@ -66,3 +70,5 @@ $ npm i @graphql-codegen/typescript @graphql-codegen/typescript-operations @grap
 ==================================================================================
 
 $ npm i @graphql-codegen/cli -D
+
+</div>
